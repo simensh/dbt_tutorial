@@ -31,9 +31,13 @@ Additionally, the quickstart guide for dbt Cloud and BigQuery was also reference
 
 # Acknowledgments
 DBT Labs for providing the fundamentals course content.
+
 The DBT community for invaluable resources and support.
 This repository is a student-led initiative and is not directly affiliated with DBT Labs
+
 Reference:
 Dbt Fundamentals: https://courses.getdbt.com/courses/fundamentals
+
 Quickstart Guide for dbt Cloud and BigQuery: https://docs.getdbt.com/guides/bigquery?step=1
+
 Dbt Core Installation: https://www.youtube.com/watch?v=TVuLrOMvVco
