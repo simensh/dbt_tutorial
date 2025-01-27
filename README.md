@@ -15,19 +15,23 @@ Python 3.7 or higher
 DBT Core
 
 # Installation
-Install DBT Core Follow the instructions to install DBT Core on your system: https://docs.getdbt.com/docs/core/pip-install
+Follow the instructions in development.md file, and you will download and install everything needed to run dbt on DuckDB locally.
+
+# Loading of data
+Load data into dbt:
+
+```bash
+dbt seed
+```
+
+# Running the transformation of the data
+
+```bash
+dbt run --select stg_customerd.ql
+```
 
 # Usage
 After installation, you can start using the repository to work through the DBT Fundamentals course. The course is divided into modules. The concepts from all modules were implemented in this repository
-
-# Course Modules
-
-Introduction to DBT
-Building Models & Sources
-Testing and Documentation
-Deployments
-Additionally, the quickstart guide for dbt Cloud and BigQuery was also referenced
-
 
 # Acknowledgments
 DBT Labs for providing the fundamentals course content.
