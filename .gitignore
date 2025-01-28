@@ -5,7 +5,8 @@ dbt_modules/
 logs/
 **/.DS_Store
 .user.yml
-venv/
+*venv/
+*vscode/
 env/
 **/*.duckdb
 **/*.duckdb.wal
