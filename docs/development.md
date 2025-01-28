@@ -105,7 +105,7 @@ You can also run linting manually:
 sqlfluff lint <path to sql file>
 ```
 
-You will probably get an error message saying that you must select i dialect for linting. In this case us --dialect duckdb since we are using DuckDB for this project.
+You will probably get an error message saying that you must select i dialect for linting. In this case use --dialect duckdb since we are using DuckDB for this project.
 
 And/or fix linting errors automatically with:
 
