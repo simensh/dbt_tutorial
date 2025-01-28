@@ -15,7 +15,7 @@ Python 3.8 or higher
 DBT Core
 
 # Installation
-Follow the instructions in th [development.md] file, and you will download and install everything needed to run dbt on DuckDB locally.
+Follow the instructions in the [here](docs/development.md) file, and you will download and install everything needed to run dbt on DuckDB locally.
 Make sure that ``` dbt debug ``` runc successfully before you continue to start loading data.
 
 # Loading of data
