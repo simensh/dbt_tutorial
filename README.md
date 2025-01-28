@@ -2,7 +2,7 @@
 
 DBT Fundamentals with DBT Core & DuckDB
 Introduction
-This repository contains most of the necessary files and resources for the DBT Fundamentals Course, originally designed for DBT Cloud, now implemented using DBT Core. The course is designed to provide learners with a thorough understanding of DBT (Data Build Tool) and its applications in data transformation, modeling, testing, and documentation.
+This repository contains all the necessary files and resources to start transforming data right now. The course is designed to provide learners with a thorough understanding of DBT (Data Build Tool) and its applications in data transformation, modeling, testing, and documentation.
 
 The warehouse used in this project is DuckDB
 
