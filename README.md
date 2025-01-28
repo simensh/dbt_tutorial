@@ -61,10 +61,7 @@ exit;
 ```
 
 # Acknowledgments
-DBT Labs for providing the fundamentals course content.
-
-The DBT community for invaluable resources and support.
-This repository is a student-led initiative and is not directly affiliated with DBT Labs
+DBT Labs for providing good documentation.
 
 Reference:
 Dbt Fundamentals: https://courses.getdbt.com/courses/fundamentals
